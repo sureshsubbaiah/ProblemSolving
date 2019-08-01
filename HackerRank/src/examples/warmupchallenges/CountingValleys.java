@@ -1,4 +1,4 @@
-package examples;
+package examples.warmupchallenges;
 
 import java.io.*;
 import java.math.*;
