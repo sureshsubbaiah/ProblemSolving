@@ -1,4 +1,5 @@
-package solving;
+package Easy;
+
 
 public class Fibonacci {
 
