@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="HackerRank/src"/>
 	<classpathentry kind="src" path="DS_Group"/>
-	<classpathentry kind="output" path="HackerRank/out/production/HackerRank"/>
+	<classpathentry kind="src" path="HackerRank"/>
+	<classpathentry kind="output" path="build"/>
 </classpath>
